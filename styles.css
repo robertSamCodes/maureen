@@ -1,0 +1,14 @@
+.background-image {
+  background-image: url("https://source.unsplash.com/random/800x600");
+  height: 600px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.btn-danger {
+  position: relative;
+  top: 50%;
+  left: 50%;
+}
